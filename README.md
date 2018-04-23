@@ -22,7 +22,7 @@ not “open resolvers”. The latter generally refers to resolvers
 that are available but may not be available intentionally.
 The primary difference could be the requirement for a web site
 listing the addresses. For example, many people call
-1.2.3.4 a public resolver run by Level3, although there
+4.2.2.1 a public resolver run by Level3, although there
 is no web page run by Level3 indicating support for
 the resolver.
 
