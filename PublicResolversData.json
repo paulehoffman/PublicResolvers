@@ -1,0 +1,322 @@
+{
+  "puntCAT": {
+    "url": "http://www.servidordenoms.cat/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "109.69.8.51",
+      "2a00:1508:0:4::9"
+    ]
+  },
+ "AliDNS": {
+    "url": "http://www.alidns.com/faqs/#dns-tech",
+    "updated": "2018-04-14",
+    "addresses": [
+      "223.5.5.5",
+      "223.6.6.6"
+    ]
+  },
+ "Alternate DNS": {
+    "url": "https://alternate-dns.com/",
+    "updated": "2018-04-14",
+    "addresses": [
+      "23.253.163.53",
+      "198.101.242.72"
+    ]
+  },
+ "CleanBrowsing": {
+    "url": "https://cleanbrowsing.org/",
+    "updated": "2018-04-22",
+    "addresses": [
+      "185.228.168.168",
+      "185.228.168.169"
+    ]
+  },
+   "Cloudflare": {
+    "url": "https://blog.cloudflare.com/dns-resolver-1-1-1-1/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "1.1.1.1",
+      "1.0.0.1",
+      "2606:4700:4700::1111",
+      "2606:4700:4700::1001"
+    ],
+    "rfc7858_addresses": [
+      "1.1.1.1",
+      "1.0.0.1",
+      "2606:4700:4700::1111",
+      "2606:4700:4700::1001"
+    ]
+  },
+  "Comodo Secure DNS": {
+    "url": "https://www.comodo.com/secure-dns/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "8.26.56.26",
+      "8.20.247.20"
+    ]
+  },
+ "CZ.NIC ODVR": {
+    "url": "https://www.nic.cz/odvr/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "217.31.204.130",
+      "193.29.206.206",
+      "2001:1488:800:400::130",
+      "2001:678:1::206"
+    ]
+  },
+  "DNSReactor": {
+    "url": "http://dnsreactor.net/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "104.236.210.29",
+      "45.55.155.25"
+    ]
+  },
+  "DNS.WATCH": {
+    "url": "https://dns.watch/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "84.200.69.80",
+      "84.200.70.40",
+      "2001:1608:10:25::1c04:b12",
+      "2001:1608:10:25::9249:d69b"
+    ]
+  },
+  "Dyn": {
+    "url": "https://help.dyn.com/internet-guide-setup/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "216.146.35.35",
+      "216.146.36.36"
+    ]
+  },
+  "FoolDNS": {
+    "url": "http://www.fooldns.com/fooldns-community/english-version/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "87.118.111.215",
+      "213.187.11.62"
+    ]
+  },
+  "FreeDNS": {
+    "url": "https://freedns.zone/en/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "37.235.1.174",
+      "37.235.1.177"
+    ]
+  },
+  "Freenom World": {
+    "url": "http://www.freenom.com/en/index.html?lang=en",
+    "updated": "2018-04-12",
+    "addresses": [
+      "80.80.80.80",
+      "80.80.81.81"
+    ]
+  },
+  "French Data Network": {
+    "url": "https://www.fdn.fr/actions/dns/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "80.67.169.12",
+      "80.67.169.40",
+      "2001:910:800::12",
+      "2001:910:800::40"
+    ]
+  },
+  "Google DNS": {
+    "url": "https://developers.google.com/speed/public-dns",
+    "updated": "2018-04-12",
+    "addresses": [
+      "2001:4860:4860::8888",
+      "2001:4860:4860::8844",
+      "8.8.8.8",
+      "8.8.4.4"
+    ]
+  },
+  "GreenTeamDNS": {
+    "url": "http://www.greentm.co.uk/how-to-setup/setup-greenteamdns-generic/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "81.218.119.11",
+      "209.88.198.133"
+    ]
+  },
+  "Lorraine Data Network": {
+    "url": "https://ldn-fai.net/serveur-dns-recursif-ouvert/",
+    "updated": "2018-04-12",
+    "rfc7858_addresses": [
+      "80.67.188.188",
+      "2001:913::8"
+    ]
+  },
+  "OARC ODVR": {
+    "url": "https://www.dns-oarc.net/oarc/services/odvr",
+    "updated": "2018-04-12",
+    "addresses": [
+      "184.105.193.73",
+      "184.105.193.74",
+      "2620:ff:c000:0:1::64:20",
+      "2620:ff:c000:0:1::64:21"
+    ]
+  },
+  "Neustar Free Recursive DNS Reliability & Performance 1": {
+    "url": "https://www.security.neustar/dns-services/free-recursive-dns-service",
+    "updated": "2018-04-12",
+    "addresses": [
+      "156.154.70.1",
+      "156.154.71.1",
+      "2610:a1:1018::1",
+      "2610:a1:1019::1"
+    ]
+  },
+  "Neustar Free Recursive DNS Reliability & Performance 2": {
+    "url": "https://www.security.neustar/dns-services/free-recursive-dns-service",
+    "updated": "2018-04-12",
+    "addresses": [
+      "156.154.70.5",
+      "156.154.71.5",
+      "2610:a1:1018::5",
+      "2610:a1:1019::5"
+    ]
+  },
+  "Neustar Free Recursive DNS Threat Protection": {
+    "url": "https://www.security.neustar/dns-services/free-recursive-dns-service",
+    "updated": "2018-04-12",
+    "addresses": [
+      "156.154.70.2",
+      "156.154.71.2",
+      "2610:a1:1018::2",
+      "2610:a1:1019::2"
+    ]
+  },
+  "Neustar Free Recursive DNS Family Secure": {
+    "url": "https://www.security.neustar/dns-services/free-recursive-dns-service",
+    "updated": "2018-04-12",
+    "addresses": [
+      "156.154.70.3",
+      "156.154.71.3",
+      "2610:a1:1018::3",
+      "2610:a1:1019::3"
+    ]
+  },
+  "Neustar Free Recursive DNS Business Secure": {
+    "url": "https://www.security.neustar/dns-services/free-recursive-dns-service",
+    "updated": "2018-04-12",
+    "addresses": [
+      "156.154.70.4",
+      "156.154.71.4",
+      "2610:a1:1018::4",
+      "2610:a1:1019::4"
+    ]
+  },
+  "Norton ConnectSafe Policy 1": {
+    "url": "https://dns.norton.com/faq.html",
+    "updated": "2018-04-12",
+    "addresses": [
+      "199.85.126.10",
+      "199.85.127.10"
+    ]
+  },
+  "Norton ConnectSafe Policy 2": {
+    "url": "https://dns.norton.com/faq.html",
+    "updated": "2018-04-12",
+    "addresses": [
+      "199.85.126.20",
+      "199.85.127.20"
+    ]
+  },
+  "Norton ConnectSafe Policy 3": {
+    "url": "https://dns.norton.com/faq.html",
+    "updated": "2018-04-12",
+    "addresses": [
+      "199.85.126.30",
+      "199.85.127.30"
+    ]
+  },
+  "Quad9 Secure": {
+    "url": "https://www.quad9.net/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "9.9.9.9",
+      "149.112.112.112",
+      "2620:fe::fe"
+    ]
+  },
+  "Quad9 Unsecure": {
+    "url": "https://www.quad9.net/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "9.9.9.10",
+      "149.112.112.10",
+      "2620:fe::10"
+    ]
+  },
+  "SafeDNS": {
+    "url": "https://www.safedns.com/features",
+    "updated": "2018-04-12",
+    "addresses": [
+      "195.46.39.39",
+      "195.46.39.40"
+    ]
+  },
+  "SmartViper Public DNS": {
+    "url": "http://www.markosweb.com/free-dns/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "208.76.50.50",
+      "208.76.51.51"
+    ]
+  },
+  "UncensoredDNS": {
+    "url": "https://blog.uncensoreddns.org/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "89.233.43.71",
+      "91.239.100.100",
+      "2a01:3a0:53:53::",
+      "2001:67c:28a4::"
+    ]
+  },
+  "Verisign Public DNS": {
+    "url": "www.verisign.com/en_US/innovation/public-dns",
+    "updated": "2018-04-12",
+    "addresses": [
+      "64.6.64.6",
+      "64.6.65.6",
+      "2620:74:1b::1:1",
+      "2620:74:1c::2:2"
+    ]
+  },
+  "Yandex.DNS Basic": {
+    "url": "https://dns.yandex.com/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "77.88.8.8",
+      "77.88.8.1",
+      "2a02:6b8::feed:0ff",
+      "2a02:6b8:0:1::feed:0ff"
+    ]
+  },
+  "Yandex.DNS Family": {
+    "url": "https://dns.yandex.com/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "77.88.8.7",
+      "77.88.8.3",
+      "2a02:6b8::feed:a11",
+      "2a02:6b8:0:1::feed:a11"
+    ]
+  },
+  "Yandex.DNS Safe": {
+    "url": "https://dns.yandex.com/",
+    "updated": "2018-04-12",
+    "addresses": [
+      "77.88.8.88",
+      "77.88.8.2",
+      "2a02:6b8::feed:bad",
+      "2a02:6b8:0:1::feed:bad"
+    ]
+  }
+}
