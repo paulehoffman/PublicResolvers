@@ -35,7 +35,7 @@ and open resolvers. Those lists usually have different
 rules for inclusion than this one does.
 
 If you're interested in public resolvers that offer
-privacy services, [this page]
-(https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers)
+privacy services,
+[this page](https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers)
 is kept up to date by folks active in the DNS community.
 
